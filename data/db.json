@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1670589204185,
+      "name": "nyi ma lay",
+      "email": "nyimalay@gmail.com",
+      "phone": "09998967543"
+    },
+    {
+      "id": 1670863202914,
+      "name": "Thazin",
+      "email": "thazin@gmail.com",
+      "phone": "099878765672"
+    },
+    {
+      "id": 1670863330846,
+      "name": "htet myat aung",
+      "email": "htetmyataung@gmail.com",
+      "phone": "09770106619"
+    }
+  ]
+}
